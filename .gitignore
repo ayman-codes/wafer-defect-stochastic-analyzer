@@ -1,0 +1,29 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+.venv/
+venv/
+env/
+ENV/
+
+# Project Persistence & Local Data
+cache/ 
+data/*.txt 
+data/labeled_dataset_combined.csv
+data/labeled_dataset_with_features.csv
+*.log
+
+# Testing & Coverage
+.pytest_cache/
+.coverage
+htmlcov/
+.mypy_cache/
+
+# IDE & System Artifacts
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
