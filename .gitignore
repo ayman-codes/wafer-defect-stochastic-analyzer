@@ -22,6 +22,9 @@ data/labeled_dataset_with_features.csv
 htmlcov/
 .mypy_cache/
 
+# Project Context (internal)
+Project_context.md
+
 # IDE & System Artifacts
 .vscode/
 .idea/
